@@ -9,7 +9,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG.png"
+                src="https://yobte.ru/uploads/posts/2019-11/zastenchivye-devushki-70-foto-62.jpg"
                 alt=""
               />
               <span>Jane Doe</span>
@@ -22,7 +22,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG.png"
+                src="https://yobte.ru/uploads/posts/2019-11/zastenchivye-devushki-70-foto-62.jpg"
                 alt=""
               />
               <span>Jane Doe</span>
@@ -39,7 +39,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG.png"
+                src="https://yobte.ru/uploads/posts/2019-11/zastenchivye-devushki-70-foto-62.jpg"
                 alt=""
               />
               <p>
@@ -52,7 +52,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG.png"
+                src="https://yobte.ru/uploads/posts/2019-11/zastenchivye-devushki-70-foto-62.jpg"
                 alt=""
               />
               <p>
@@ -65,7 +65,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG.png"
+                src="https://yobte.ru/uploads/posts/2019-11/zastenchivye-devushki-70-foto-62.jpg"
                 alt=""
               />
               <p>
@@ -78,7 +78,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG.png"
+                src="https://yobte.ru/uploads/posts/2019-11/zastenchivye-devushki-70-foto-62.jpg"
                 alt=""
               />
               <p>
@@ -94,7 +94,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG.png"
+                src="https://yobte.ru/uploads/posts/2019-11/zastenchivye-devushki-70-foto-62.jpg"
                 alt=""
               />
               <div className="online" />
@@ -104,7 +104,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG.png"
+                src="https://yobte.ru/uploads/posts/2019-11/zastenchivye-devushki-70-foto-62.jpg"
                 alt=""
               />
               <div className="online" />
@@ -114,7 +114,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG.png"
+                src="https://yobte.ru/uploads/posts/2019-11/zastenchivye-devushki-70-foto-62.jpg"
                 alt=""
               />
               <div className="online" />
@@ -124,7 +124,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG.png"
+                src="https://yobte.ru/uploads/posts/2019-11/zastenchivye-devushki-70-foto-62.jpg"
                 alt=""
               />
               <div className="online" />
@@ -134,7 +134,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG.png"
+                src="https://yobte.ru/uploads/posts/2019-11/zastenchivye-devushki-70-foto-62.jpg"
                 alt=""
               />
               <div className="online" />
@@ -144,7 +144,7 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img
-                src="https://www.pngall.com/wp-content/uploads/5/Profile-Avatar-PNG.png"
+                src="https://yobte.ru/uploads/posts/2019-11/zastenchivye-devushki-70-foto-62.jpg"
                 alt=""
               />
               <div className="online" />
